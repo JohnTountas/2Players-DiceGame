@@ -199,8 +199,8 @@ main {
 
 .Myfooter {
   position: absolute;
-  font-size: 18px;
-  margin: 780px 0px 0px 660px;
+  font-size: 17px;
+  margin: 780px 0px 0px 680px;
   text-shadow: 3px 3px 5px black;
   color: rgb(231, 228, 228);
   font-family: 'Nunito', sans-serif;
