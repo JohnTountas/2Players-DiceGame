@@ -2,7 +2,7 @@
 
 /// RULES ///
 
-/\_
+---
 
 A small game with dices between 2 players.
 
@@ -10,4 +10,6 @@ Player #1 starts and presses the ROLL button as many times as he wants. the numb
 
 The first player who will reach at 100 points wins !
 
-\_/
+---
+
+This Project created by Me, after the help of Udemy Javascript lessons.
