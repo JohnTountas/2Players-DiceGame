@@ -159,8 +159,6 @@ main {
 
 .btn:active {
   transform: translate(-50%, 10px);
-
-  /* 0 1rem 2rem rgba(0, 0, 0, 0.15) */
 }
 
 .btn:focus {
@@ -170,10 +168,11 @@ main {
 .dice {
   position: absolute;
   left: 50%;
-  top: 16.5rem;
+  top: 30%;
   transform: translateX(-50%);
   height: 10rem;
   box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.2);
+  border-radius: 18px;
 }
 
 .player--winner {
