@@ -1,4 +1,4 @@
-# The Loot Game
+# 2playersDices
 
 /// RULES ///
 
