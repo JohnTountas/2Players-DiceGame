@@ -10,4 +10,4 @@ Player #1 starts and presses the ROLL button as many times as he wants. the numb
 
 The first player who will reach at 100 points wins !
 
-TRY THE GAME HERE: https://2playerdices.netlify.app/
+Try the Game HERE: https://2playerdices.netlify.app/
