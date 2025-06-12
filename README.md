@@ -17,4 +17,4 @@ IF a player rolls and appears the number "1" , LOSE all of his temporary points 
 The first player who will reach to 100 points wins !
 
 
-Try the Game HERE:  https://2playerdices.netlify.app/
+Try the Game HERE:    https://2players-dicegame.netlify.app/
