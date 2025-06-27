@@ -17,4 +17,5 @@ The first player who will reach to 100 points wins !
 
 
 
-Try the Game HERE:      https://2players-dicegame.netlify.app/
+Try the Game HERE:  
+https://2players-dicegame.netlify.app/
