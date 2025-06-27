@@ -131,6 +131,7 @@ main {
 
 .btn--new {
   top: 4rem;
+  font-weight: 500px;
 }
 .btn--roll {
   top: 39.3rem;
