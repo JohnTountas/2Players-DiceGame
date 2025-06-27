@@ -131,12 +131,15 @@ main {
 
 .btn--new {
   top: 4rem;
+  font-weight: bold;
 }
 .btn--roll {
-  top: 39.3rem;
+  top: 39rem;
+  font-weight: bold;
 }
 .btn--hold {
   top: 46.1rem;
+  font-weight: bold;
 }
 
 .btn--new:hover {
